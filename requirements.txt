@@ -1,0 +1,3 @@
+frappe>=14.0.0
+erpnext>=14.0.0
+requests>=2.25.1
