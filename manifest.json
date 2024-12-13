@@ -1,0 +1,14 @@
+{
+    "app_name": "itrack_integration",
+    "app_title": "iTrack Integration",
+    "app_publisher": "Your Company",
+    "app_description": "Integration between iTrack API and ERPNext",
+    "app_icon": "octicon octicon-device-mobile",
+    "app_color": "#589494",
+    "app_email": "your.email@example.com",
+    "requires": [
+        "frappe>=14.0.0",
+        "erpnext>=14.0.0"
+    ],
+    "app_license": "MIT"
+}
